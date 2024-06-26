@@ -78,10 +78,10 @@ input:hover{
   background-color:hsl(350, 100%, 55%);
 
 }
-input:active{
+/* input:active{
   background-color:hsl(350, 100%, 75%);
 
-}
+} */
 #display:hover{
   background-color: #3a4459;
 }
